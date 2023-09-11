@@ -10,8 +10,8 @@
     "name": "C++ Launch",
     "type": "cppdbg",
     "request": "launch",
-    "program": "${workspaceFolder}/a.out",
+    "program": "${workspaceFolder}/bin/a.out",
     "args": ["arg1", "arg2"],
     "environment": [{ "name": "config", "value": "Debug" }],
-    "cwd": "${workspaceFolder}"
+    "cwd": "${workspaceFolder}/bin"
   }
