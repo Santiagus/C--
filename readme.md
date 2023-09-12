@@ -23,7 +23,7 @@ This is a list of SW I am currently using or those tools I have in mind to check
    
 ## Static Analyzers
 * [Cppcheck](http://cppcheck.sourceforge.net/)
-* [Clang Static Analyzer] (https://clang-analyzer.llvm.org/)
+* [Clang Static Analyzer](https://clang-analyzer.llvm.org/)
 * [SourceMeter](https://www.sourcemeter.com/)
 
 ## Code Formatting / Naming
@@ -41,7 +41,7 @@ This is a list of SW I am currently using or those tools I have in mind to check
 ### Fuzzing
 * [american fuzzy lop ++](https://github.com/AFLplusplus/AFLplusplus)
 * [american fuzzy lop](http://lcamtuf.coredump.cx/afl/)
-* [Fuzztest] https://github.com/google/fuzztest
+* [Fuzztest](https://github.com/google/fuzztest)
 * [LibFuzzer](http://llvm.org/docs/LibFuzzer.html)
 * [KLEE](http://klee.github.io/)
 * [Fuzzit](https://fuzzit.dev/)
