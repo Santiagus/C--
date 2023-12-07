@@ -2,9 +2,9 @@
 
 Playground to test C++ related stuff.
 
-This is a list of SW I am currently using or those tools I have in mind to check/use soon. Obviously there are plenty of alternatives, so I reduced the list to the ones I am more interested about.
+This is a list of SW I use or those tools I have in mind to check/use soon. Obviously there are plenty of alternatives, so I reduced the list to the ones I am more interested about.
 
-## Source Control
+## Source Control / IDE
 * [GitHub](https://github.com/)
 * [Visual Studio Online](https://vscode.dev/)
 
@@ -18,6 +18,8 @@ This is a list of SW I am currently using or those tools I have in mind to check
  * [qpm](https://www.qpm.io/)
  
 ## Continuous Integration
+ * [GitHub](https://github.com/)
+ * [GitLab](https://about.gitlab.com/)
  * [Travis CI](http://travis-ci.org) 
  * [Jenkins CI](https://jenkins-ci.org/)
    
@@ -33,6 +35,7 @@ This is a list of SW I am currently using or those tools I have in mind to check
 ## Testing
 ### Unit tests
 * [DocTest](https://github.com/doctest/doctest)
+* [Catch2](https://github.com/catchorg/Catch2)
 
 ### Code Coverage Analysis
 * [Codecov](https://codecov.io/)
